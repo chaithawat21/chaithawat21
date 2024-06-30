@@ -1,53 +1,46 @@
-# Hi!, I'm Chaithawat Pinsuwan :fire:  
+# Hey there!, I'm Chai :fire:  
 
-I'm currently immersed in learning to code, driven by a keen interest in tackling challenges.  
+I'm currently learning to code and practice every day.
+
+*CODE*
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=%23323330)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=%2320232A)
+
+*DESIGN*
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
+
+---
+
+## PROJECTS :boom:
 
 **FRONTENDMENTOR** (Lastest Update)  
 
-Advice generator app | HTML CSS API REACT | 2024 June 25  
-[![Repository](https://img.shields.io/badge/Repository-Advice%20Generator%20App-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-advice-generator-app-main.git) [![Live Site](https://img.shields.io/badge/Live%20Site-Advice%20Generator%20App-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-advice-generator-app-main/)  
-Loopstudios landing page | HTML CSS TAILWIND REACT | 2024 June 23  
-[![Repository](https://img.shields.io/badge/Repository-Loopstudios%20Landing%20Page-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-loopstudios-landing-page-main.git) [![Live Site](https://img.shields.io/badge/Live%20Site-Loopstudios%20Landing%20Page-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-loopstudios-landing-page-main/)  
-Space tourism multi-page website | HTML CSS TAILWIND  REACT | 2024 June 20  
-[![Repository](https://img.shields.io/badge/Repository-Space%20Tourism%20Multi--page-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-space-tourism-website-main.git) [![Live Site](https://img.shields.io/badge/Live%20Site-Space%20Tourism%20Multi--page-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-space-tourism-website-main/)  
-Contact form | HTML CSS TAILWIND  REACT | 2024 June 14  
-[![Repository](https://img.shields.io/badge/Repository-Contact%20Form-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-contact-form-main.git) [![Live Site](https://img.shields.io/badge/Live%20Site-Contact%20Form-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-contact-form-main/)  
-Order summary component | HTML CSS | 2024 June 6  
-[![Repository](https://img.shields.io/badge/Repository-Order%20Summary%20Component-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-order-summary-component-main.git) [![Live Site](https://img.shields.io/badge/Live%20Site-Order%20Summary%20Component-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-order-summary-component-main/)  
-NFT preview card component | HTML CSS TAILWIND | 2024 June 1  
-[![Repository](https://img.shields.io/badge/Repository-NFT%20Preview%20Card%20Component-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-nft-preview-card-component-main.git) [![Live Site](https://img.shields.io/badge/Live%20Site-NFT%20Preview%20Card%20Component-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-nft-preview-card-component-main/)  
-Newsletter sign-up form with success message | HTML CSS JAVASCRIPT | 2024 May 31  
-[![Repository](https://img.shields.io/badge/Repository-Newsletter%20Sign--up%20Form-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-newsletter-sign-up-with-success-message-main.git) [![Live Site](https://img.shields.io/badge/Live%20Site-Newsletter%20Sign--up%20Form-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-newsletter-sign-up-with-success-message-main/)  
-FAQ accordion | HTML CSS JAVASCRIPT | 2024 May 29  
-[![Repository](https://img.shields.io/badge/Repository-FAQ%20Accordion-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-faq-accordion-main.git) [![Live Site](https://img.shields.io/badge/Live%20Site-FAQ%20Accordion-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-faq-accordion-main/)  
-Room homepage | HTML CSS JAVASCRIPT | 2024 May 28  
-[![Repository](https://img.shields.io/badge/Repository-Room%20Homepage-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-room-homepage-master.git) [![Live Site](https://img.shields.io/badge/Live%20Site-Room%20Homepage-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-room-homepage-master/)  
-Intro component with sign-up form | HTML CSS JAVASCRIPT | 2024 May 26  
-[![Repository](https://img.shields.io/badge/Repository-Intro%20Component%20With%20Sign--up%20Form-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-intro-component-with-signup-form-master.git) [![Live Site](https://img.shields.io/badge/Live%20Site-Intro%20Component%20With%20Sign--up%20Form-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-intro-component-with-signup-form-master/)  
-Interactive rating component | HTML CSS JAVASCRIPT | 2024 May 23  
-[![Repository](https://img.shields.io/badge/Repository-Interactive%20Rating%20Component-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-interactive-rating-component-main.git) [![Live Site](https://img.shields.io/badge/Live%20Site-Interactive%20Rating%20Component-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-interactive-rating-component-main/)  
-Chat app CSS illustration | HTML CSS | 2024 May 18  
-[![Repository](https://img.shields.io/badge/Repository-Chat%20App%20CSS%20Illustration-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-chat-app-css-illustration-master.git) [![Live Site](https://img.shields.io/badge/Live%20Site-Chat%20App%20CSS%20Illustration-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-chat-app-css-illustration-master/)  
-Fylo landing page with two column layout | HTML CSS | 2024 May 17  
-[![Repository](https://img.shields.io/badge/Repository-Fylo%20Landing%20Page%20With%20Two%20Column%20Layout-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-fylo-landing-page-with-two-column-layout-master.git) [![Live Site](https://img.shields.io/badge/Live%20Site-Fylo%20Landing%20Page%20With%20Two%20Column%20Layout-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-fylo-landing-page-with-two-column-layout-master/)  
-Social proof section | HTML CSS | 2024 May 14  
-[![Repository](https://img.shields.io/badge/Repository-Social%20Proof%20Section-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-social-proof-section-master.git) [![Live Site](https://img.shields.io/badge/Live%20Site-Social%20Proof%20Section-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-social-proof-section-master/)  
-QR code component | HTML CSS | 2024 May 13  
-[![Repository](https://img.shields.io/badge/Repository-QR%20Code%20Component-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-qr-code-component-main.git) [![Live Site](https://img.shields.io/badge/Live%20Site-QR%20Code%20Component-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-qr-code-component-main/)  
-Clipboard landing page | HTML CSS | 2024 May 12  
-[![Repository](https://img.shields.io/badge/Repository-Clipboard%20Landing%20Page-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-clipboard-landing-page-master.git) [![Live Site](https://img.shields.io/badge/Live%20Site-Clipboard%20Landing%20Page-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-clipboard-landing-page-master/)  
-Testimonials grid section | HTML CSS | 2024 May 11  
-[![Repository](https://img.shields.io/badge/Repository-Testimonials%20Grid%20Section-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-testimonials-grid-section-main.git) [![Live Site](https://img.shields.io/badge/Live%20Site-Testimonials%20Grid%20Section-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-testimonials-grid-section-main/)  
-Fylo data storage component | HTML CSS | 2024 May 10  
-[![Repository](https://img.shields.io/badge/Repository-Fylo%20Data%20Storage%20Component-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-fylo-data-storage-component-master.git) [![Live Site](https://img.shields.io/badge/Live%20Site-Fylo%20Data%20Storage%20Component-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-fylo-data-storage-component-master/)  
-Results summary component | HTML CSS | 2024 May 9  
-[![Repository](https://img.shields.io/badge/Repository-Results%20Summary%20Component-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-results-summary-component-main.git) [![Live Site](https://img.shields.io/badge/Live%20Site-Results%20Summary%20Component-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-results-summary-component-main/)  
-Product preview card component | HTML CSS | 2024 May 8  
-[![Repository](https://img.shields.io/badge/Repository-Product%20Preview%20Card%20Component-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-product-preview-card-component-main.git) [![Live Site](https://img.shields.io/badge/Live%20Site-Product%20Preview%20Card%20Component-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-product-preview-card-component-main/)  
-Blog preview card | HTML CSS | 2024 May 7  
-[![Repository](https://img.shields.io/badge/Repository-Blog%20Preview%20Card-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-blog-preview-card-main.git) [![Live Site](https://img.shields.io/badge/Live%20Site-Blog%20Preview%20Card-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-blog-preview-card-main/)  
-Social links profile | HTML CSS | 2024 May 6  
-[![Repository](https://img.shields.io/badge/Repository-Social%20Links%20Profile-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-social-links-profile-main.git) [![Live Site](https://img.shields.io/badge/Live%20Site-Social%20Links%20Profile-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-social-links-profile-main/)  
-Recipe page | HTML CSS | 2024 May 5  
-[![Repository](https://img.shields.io/badge/Repository-Recipe%20Page-blue?style=flat-square&logo=github)](https://github.com/chaithawat21/frontendmentor-recipe-page-main.git) [![Live Site](https://img.shields.io/badge/Live%20Site-Recipe%20Page-green?style=flat-square&logo=github)](https://chaithawat21.github.io/frontendmentor-recipe-page-main/)  
-
+- [Advice generator app](https://chaithawat21.github.io/frontendmentor-advice-generator-app-main/) | HTML CSS API REACT | 2024 June 25  
+- [Loopstudios landing page](https://chaithawat21.github.io/frontendmentor-loopstudios-landing-page-main/) | HTML CSS TAILWIND REACT | 2024 June 23  
+- [Space tourism multi-page website](https://chaithawat21.github.io/frontendmentor-space-tourism-website-main/) | HTML CSS TAILWIND  REACT | 2024 June 20  
+- [Contact form](https://chaithawat21.github.io/frontendmentor-contact-form-main/) | HTML CSS TAILWIND  REACT | 2024 June 14  
+- [Order summary component](https://chaithawat21.github.io/frontendmentor-order-summary-component-main/) | HTML CSS | 2024 June 6  
+- [NFT preview card component](https://chaithawat21.github.io/frontendmentor-nft-preview-card-component-main/) | HTML CSS TAILWIND | 2024 June 1  
+- [Newsletter sign-up form with success message](https://chaithawat21.github.io/frontendmentor-newsletter-sign-up-with-success-message-main/) | HTML CSS JAVASCRIPT | 2024 May 31  
+- [FAQ accordion](https://chaithawat21.github.io/frontendmentor-faq-accordion-main/) | HTML CSS JAVASCRIPT | 2024 May 29  
+- [Room homepage](https://chaithawat21.github.io/frontendmentor-room-homepage-master/) | HTML CSS JAVASCRIPT | 2024 May 28  
+- [Intro component with sign-up form](https://chaithawat21.github.io/frontendmentor-intro-component-with-signup-form-master/) | HTML CSS JAVASCRIPT | 2024 May 26  
+- [Interactive rating component](https://chaithawat21.github.io/frontendmentor-interactive-rating-component-main/) | HTML CSS JAVASCRIPT | 2024 May 23  
+- [Chat app CSS illustration]( https://chaithawat21.github.io/frontendmentor-chat-app-css-illustration-master/) | HTML CSS | 2024 May 18  
+- [Fylo landing page with two column layout](https://chaithawat21.github.io/frontendmentor-fylo-landing-page-with-two-column-layout-master/) | HTML CSS | 2024 May 17  
+- [Social proof section](https://chaithawat21.github.io/frontendmentor-social-proof-section-master/) | HTML CSS | 2024 May 14  
+- [QR code component](https://chaithawat21.github.io/frontendmentor-qr-code-component-main/) | HTML CSS | 2024 May 13  
+- [Clipboard landing page](https://chaithawat21.github.io/frontendmentor-clipboard-landing-page-master/) | HTML CSS | 2024 May 12  
+- [Testimonials grid section](https://chaithawat21.github.io/frontendmentor-testimonials-grid-section-main/) | HTML CSS | 2024 May 11  
+- [Fylo data storage component](https://chaithawat21.github.io/frontendmentor-fylo-data-storage-component-master/) | HTML CSS | 2024 May 10  
+- [Results summary component](frontendmentor-results-summary-component-main/) | HTML CSS | 2024 May 9  
+- [Product preview card component](https://chaithawat21.github.io/frontendmentor-product-preview-card-component-main/) | HTML CSS | 2024 May 8  
+- [Blog preview card](https://chaithawat21.github.io/frontendmentor-blog-preview-card-main/) | HTML CSS | 2024 May 7  
+- [Social links profile](https://chaithawat21.github.io/frontendmentor-social-links-profile-main/) | HTML CSS | 2024 May 6  
+- [Recipe page](https://chaithawat21.github.io/frontendmentor-recipe-page-main/) | HTML CSS | 2024 May 5  
