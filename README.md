@@ -3,12 +3,9 @@
 I'm currently learning to code and practice every day.
 
 *SKILLS*  
-core  
- ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=%23323330)
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)  
-frontend  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=%23323330)  
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=%2320232A)
 ![Vite](https://img.shields.io/badge/vite-%23006DF4.svg?style=flat-square&logo=vite&logoColor=white)  
@@ -25,6 +22,7 @@ frontend
 
 **![Frontend Mentor Logo](https://www.frontendmentor.io/static/images/logo-mobile.svg)[FRONTENDMENTOR](https://www.frontendmentor.io/profile/chaithawat21)** (Lastest Update)  
 
+- [ecommerce product page main](https://chaithawat21.github.io/frontendmentor-ecommerce-product-page-main/)| HTML CSS TAILWIND REACT | 2024 July 1  
 - [Advice generator app](https://chaithawat21.github.io/frontendmentor-advice-generator-app-main/) | HTML CSS API REACT | 2024 June 25  
 - [Loopstudios landing page](https://chaithawat21.github.io/frontendmentor-loopstudios-landing-page-main/) | HTML CSS TAILWIND REACT | 2024 June 23  
 - [Space tourism multi-page website](https://chaithawat21.github.io/frontendmentor-space-tourism-website-main/) | HTML CSS TAILWIND  REACT | 2024 June 20  
