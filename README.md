@@ -2,6 +2,8 @@
 
 I'm currently learning to code and practice every day.
 
+---
+
 **SKILLS**  
 *PROGRAMMING LANGUAGES*  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
@@ -16,8 +18,6 @@ I'm currently learning to code and practice every day.
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)  
-
----
 
 ## PROJECTS :boom:
 
@@ -49,4 +49,4 @@ I'm currently learning to code and practice every day.
 - [Social links profile](https://chaithawat21.github.io/frontendmentor-social-links-profile-main/) | HTML CSS | 2024 May 6  
 - [Recipe page](https://chaithawat21.github.io/frontendmentor-recipe-page-main/) | HTML CSS | 2024 May 5  
 
-### [RESUME](https://docs.google.com/document/d/e/2PACX-1vTXZ_72-l9bmcPAWNyxZ5LWOHFO7CEWDw8dKaMDLgEpNgGqz8w_8lWBRhlOtW5AmnEe-K3EtgScL2_I/pub) :sunny: 
+### Here is my [RESUME](https://docs.google.com/document/d/e/2PACX-1vTXZ_72-l9bmcPAWNyxZ5LWOHFO7CEWDw8dKaMDLgEpNgGqz8w_8lWBRhlOtW5AmnEe-K3EtgScL2_I/pub) :sunny:  
