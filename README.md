@@ -1,4 +1,4 @@
-# Hey there!, I'm Chai :fire:  
+# Hey there! I'm Chai :fire:  
 
 I'm currently learning to code and practice every day.
 
@@ -23,7 +23,8 @@ I'm currently learning to code and practice every day.
 
 **![Frontend Mentor Logo](https://www.frontendmentor.io/static/images/logo-mobile.svg)[FRONTENDMENTOR](https://www.frontendmentor.io/profile/chaithawat21)** (Lastest Update)  
 
-- [ecommerce product page main](https://chaithawat21.github.io/frontendmentor-ecommerce-product-page-main/)| HTML CSS TAILWIND REACT | 2024 July 1  
+- [ip address tracker master](https://chaithawat21.github.io/frontendmentor-ip-address-tracker-master/) | HTML CSS API TAILWIND REACT AXIOS | 2024 July 4  
+- [ecommerce product page main](https://chaithawat21.github.io/frontendmentor-ecommerce-product-page-main/) | HTML CSS TAILWIND REACT | 2024 July 1  
 - [Advice generator app](https://chaithawat21.github.io/frontendmentor-advice-generator-app-main/) | HTML CSS API REACT | 2024 June 25  
 - [Loopstudios landing page](https://chaithawat21.github.io/frontendmentor-loopstudios-landing-page-main/) | HTML CSS TAILWIND REACT | 2024 June 23  
 - [Space tourism multi-page website](https://chaithawat21.github.io/frontendmentor-space-tourism-website-main/) | HTML CSS TAILWIND  REACT | 2024 June 20  
@@ -47,3 +48,5 @@ I'm currently learning to code and practice every day.
 - [Blog preview card](https://chaithawat21.github.io/frontendmentor-blog-preview-card-main/) | HTML CSS | 2024 May 7  
 - [Social links profile](https://chaithawat21.github.io/frontendmentor-social-links-profile-main/) | HTML CSS | 2024 May 6  
 - [Recipe page](https://chaithawat21.github.io/frontendmentor-recipe-page-main/) | HTML CSS | 2024 May 5  
+
+### [RESUME](https://docs.google.com/document/d/e/2PACX-1vTXZ_72-l9bmcPAWNyxZ5LWOHFO7CEWDw8dKaMDLgEpNgGqz8w_8lWBRhlOtW5AmnEe-K3EtgScL2_I/pub) :sunny: 
