@@ -1,6 +1,6 @@
 # Hey there! I'm Chai :fire:  
 
-I'm currently learning to code and practice every day.
+I'll never stop learning to code and practice every day.
 
 ---
 
