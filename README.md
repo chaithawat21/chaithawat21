@@ -21,6 +21,8 @@ I'll never stop learning to code and practice every day.
 
 ## PROJECTS :boom:
 
+**[Protfolio](https://chaithawat21.github.io/)**
+
 **![Frontend Mentor Logo](https://www.frontendmentor.io/static/images/logo-mobile.svg)[FRONTENDMENTOR](https://www.frontendmentor.io/profile/chaithawat21)** (Lastest Update)  
 
 - [ip address tracker master](https://chaithawat21.github.io/frontendmentor-ip-address-tracker-master/) | HTML CSS API TAILWIND REACT AXIOS | 2024 July 4  
