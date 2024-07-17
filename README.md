@@ -21,7 +21,7 @@ I'll never stop learning to code and practice every day.
 
 ## PROJECTS :boom:
 
-**[Protfolio](https://chaithawat21.github.io/)**  
+**[PORTFOLIO](https://chaithawat21.github.io/)**  
 
 **[FRONTENDMENTOR](https://www.frontendmentor.io/profile/chaithawat21)![Frontend Mentor Logo](https://www.frontendmentor.io/static/images/logo-mobile.svg)** (Lastest Update)  
 
