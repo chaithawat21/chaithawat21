@@ -21,7 +21,7 @@ I'll never stop learning to code and practice every day.
 
 ## PROJECTS :boom:
 
-**[WEBSITE PORTFOLIO]((https://chaithawat21.github.io/))** 
+**[WEBSITE PORTFOLIO](https://chaithawat21.github.io/)**  
 
 **[VFX PORTFOLIO](https://vimeo.com/647403095)**  
 
