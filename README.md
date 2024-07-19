@@ -52,4 +52,6 @@ I'll never stop learning to code and practice every day.
 - [Social links profile](https://chaithawat21.github.io/frontendmentor-social-links-profile-main/) | HTML CSS | 2024 May 6  
 - [Recipe page](https://chaithawat21.github.io/frontendmentor-recipe-page-main/) | HTML CSS | 2024 May 5  
 
+--
+
 ### Here is my [RESUME](https://docs.google.com/document/d/e/2PACX-1vTXZ_72-l9bmcPAWNyxZ5LWOHFO7CEWDw8dKaMDLgEpNgGqz8w_8lWBRhlOtW5AmnEe-K3EtgScL2_I/pub) :sunny:  
