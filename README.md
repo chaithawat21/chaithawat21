@@ -20,9 +20,7 @@ I'll never stop learning to code and practice every day.
 
 ## PROJECTS :boom:
 
-**[WEBSITE PORTFOLIO](https://chaithawat21.github.io/)**  
-
-**[VFX PORTFOLIO](https://vimeo.com/647403095)**  
+**[WEBSITE PORTFOLIO](https://chaithawat21.github.io/)**  :sunny:  
 
 **[FRONTENDMENTOR](https://www.frontendmentor.io/profile/chaithawat21)![Frontend Mentor Logo](https://www.frontendmentor.io/static/images/logo-mobile.svg)** (Lastest Update)  
 
@@ -54,4 +52,4 @@ I'll never stop learning to code and practice every day.
 
 ---
 
-### Here is my [RESUME](https://docs.google.com/document/d/e/2PACX-1vTXZ_72-l9bmcPAWNyxZ5LWOHFO7CEWDw8dKaMDLgEpNgGqz8w_8lWBRhlOtW5AmnEe-K3EtgScL2_I/pub) :sunny:  
+**[VFX PORTFOLIO](https://vimeo.com/647403095)**   
