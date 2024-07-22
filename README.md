@@ -24,7 +24,8 @@ I'll never stop learning to code and practice every day.
 
 **O2O PROJECT**(Group Project)
 - [Figma](https://www.figma.com/design/1Ouaz0a9aK67HJkwLVG9yo/O2O-Project?node-id=0-1&t=LyriFz22GUst2Pwt-1)  
-- [Frontend](https://github.com/chaithawat21/o2o-frontend) - [Backend](https://github.com/chaithawat21/o2o-backend)  
+- [Frontend](https://github.com/chaithawat21/o2o-frontend)  
+- [Backend](https://github.com/chaithawat21/o2o-backend)  
 
 **[FRONTENDMENTOR](https://www.frontendmentor.io/profile/chaithawat21)![Frontend Mentor Logo](https://www.frontendmentor.io/static/images/logo-mobile.svg)** (Lastest Update)  
 
