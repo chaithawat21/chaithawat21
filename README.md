@@ -22,7 +22,7 @@ I'll never stop learning to code and practice every day.
 
 **[WEBSITE PORTFOLIO](https://chaithawat21.github.io/)** :sunny:  
 
-**O2O PROJECT**(Group Project)
+**O2O PROJECT**(Group Project) | 2024 July 24
 - [Figma](https://www.figma.com/design/1Ouaz0a9aK67HJkwLVG9yo/O2O-Project?node-id=0-1&t=LyriFz22GUst2Pwt-1)  
 - [Frontend](https://github.com/chaithawat21/o2o-frontend)  
 - [Backend](https://github.com/chaithawat21/o2o-backend)  
