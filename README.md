@@ -1,7 +1,7 @@
 # Hey there! I'm Chai ❤️‍🔥
 
-I'll never stop learning to code and practice every day.
-[WEBSITE PORTFOLIO](https://chaithawat21.github.io/) 🌞
+I'll never stop learning to code and practice every day.  
+[PORTFOLIO](https://chaithawat21.github.io/) 🌞
 
 ---
 
@@ -21,7 +21,6 @@ I'll never stop learning to code and practice every day.
 ![Adobe After Effects](https://img.shields.io/badge/adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)  
 
 ## PROJECTS :fire:  
-
 
 **[XO GAME](https://chaithawat21.github.io/xo/)** | HTML CSS TAILWIND REACT TPYESCRIPT | 2024 July 31  
 
