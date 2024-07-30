@@ -1,6 +1,6 @@
 # Hey there! I'm Chai :fire:  
 I'll never stop learning to code and practice every day.  
-[PORTFOLIO](https://chaithawat21.github.io/) ☀️
+[PORTFOLIO](https://chaithawat21.github.io/)
 
 ---
 
