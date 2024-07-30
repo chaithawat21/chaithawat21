@@ -19,7 +19,8 @@ I'll never stop learning to code and practice every day.
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)  
 
-## PROJECTS ##[WEBSITE PORTFOLIO](https://chaithawat21.github.io/) :boom:
+## PROJECTS :boom:
+[WEBSITE PORTFOLIO](https://chaithawat21.github.io/)
 
 **[XO GAME](https://chaithawat21.github.io/xo/)** | HTML CSS TAILWIND REACT TPYESCRIPT | 2024 July 31  
 
