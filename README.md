@@ -19,11 +19,11 @@ I'll never stop learning to code and practice every day.
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)  
 
-## PROJECTS[WEBSITE PORTFOLIO](https://chaithawat21.github.io/) :boom:
+## PROJECTS [WEBSITE PORTFOLIO](https://chaithawat21.github.io/) :boom:
 
-**[XO GAME](https://chaithawat21.github.io/xo/)** | HTML CSS TAILWIND REACT TPYESCRIPT | 2024 July 31
+**[XO GAME](https://chaithawat21.github.io/xo/)** | HTML CSS TAILWIND REACT TPYESCRIPT | 2024 July 31  
 
-**O2O PROJECT**(Persona Group Project) | 2024 July 24
+**O2O PROJECT**(Group Project) | 2024 July 24
 - [Figma](https://www.figma.com/design/1Ouaz0a9aK67HJkwLVG9yo/O2O-Project?node-id=0-1&t=LyriFz22GUst2Pwt-1)  
 - [Frontend](https://github.com/chaithawat21/o2o-frontend)  
 - [Backend](https://github.com/chaithawat21/o2o-backend)  
