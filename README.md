@@ -1,5 +1,5 @@
 # Hey there! I'm Chai :fire:  
-I'll never stop learning to code and practice every day.  
+I'll never stop learning to code and design, and I practice every day to keep getting better!  
 [PORTFOLIO](https://chaithawat21.github.io/)
 
 ---
