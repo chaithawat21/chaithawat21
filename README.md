@@ -24,7 +24,7 @@ I'll never stop learning to code and design, and I practice every day to keep ge
 **[XO GAME](https://chaithawat21.github.io/xo/)** | HTML CSS TAILWIND REACT TPYESCRIPT | 2024 July 31  
 
 **[O2O PROJECT](https://o2o-project.vercel.app/)**(Group Project) | 2024 July 24
-- [Figma](https://www.figma.com/design/1Ouaz0a9aK67HJkwLVG9yo/O2O-Project?node-id=0-1&t=LyriFz22GUst2Pwt-1)  
+- [Figma]([https://www.figma.com/design/1Ouaz0a9aK67HJkwLVG9yo/O2O-Project?node-id=0-1&t=LyriFz22GUst2Pwt-1](https://www.figma.com/design/7pjpUvA80UlvUp0nj9eonQ/Design?node-id=0-1&t=YZwNx7rLROd5bFgP-1))  
 - [Frontend](https://github.com/chaithawat21/o2o-frontend)  
 - [Backend](https://github.com/chaithawat21/o2o-backend)  
 
