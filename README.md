@@ -30,6 +30,7 @@ I'll never stop learning to code and design, and I practice every day to keep ge
 
 **[FRONTENDMENTOR](https://www.frontendmentor.io/profile/chaithawat21)![Frontend Mentor Logo](https://www.frontendmentor.io/static/images/logo-mobile.svg)** (Lastest Update)  
 
+- [new homepage main](https://chaithawat21.github.io/frontendmentor-news-homepage-main/) | HTML CSS TAILWIND REACT TYPESCRIPT | 2024 August 19 
 - [ip address tracker master](https://chaithawat21.github.io/frontendmentor-ip-address-tracker-master/) | HTML CSS API TAILWIND REACT AXIOS | 2024 July 4  
 - [ecommerce product page main](https://chaithawat21.github.io/frontendmentor-ecommerce-product-page-main/) | HTML CSS TAILWIND REACT | 2024 July 1  
 - [Advice generator app](https://chaithawat21.github.io/frontendmentor-advice-generator-app-main/) | HTML CSS API REACT | 2024 June 25  
