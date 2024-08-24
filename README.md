@@ -1,6 +1,6 @@
 # Hey there! I'm Chai :fire:  
 I'll never stop learning to code and design, and I practice every day to keep getting better!  
-[RESUME](https://www.canva.com/design/DAGMh2JsQSE/vZzxGNJR5mwARaZl-Rrm7Q/view?utm_content=DAGMh2JsQSE&utm_campaign=designshare&utm_medium=link&utm_source=editor) | [PORTFOLIO](https://chaithawat21.github.io/)
+[RESUME](https://www.canva.com/design/DAGOUanbpeA/hDvcxBMOqAV2HfpCa2j0Rg/view?utm_content=DAGOUanbpeA&utm_campaign=designshare&utm_medium=link&utm_source=editor) | [PORTFOLIO](https://chaithawat21.github.io/)
 
 ---
 
