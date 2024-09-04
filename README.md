@@ -12,6 +12,9 @@ I'll never stop learning to code and design, and I practice every day to keep ge
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=%2320232A)
 ![Vite](https://img.shields.io/badge/vite-%23006DF4.svg?style=flat-square&logo=vite&logoColor=white)  
+![Swift](https://img.shields.io/badge/swift-%23F05138.svg?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/swiftui-%23F05138.svg?style=flat-square&logo=swift&logoColor=white)  
+
 
 *DESIGN SOFTWARE*  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)  
@@ -20,6 +23,9 @@ I'll never stop learning to code and design, and I practice every day to keep ge
 ![Adobe After Effects](https://img.shields.io/badge/adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)  
 
 ## PROJECTS ❤️‍🔥  
+
+**[Weather App](https://github.com/chaithawat21/weather-app)** | SWIFT SWIFTUI | 2024 September 4
+**[Airbnb Clone App](https://github.com/chaithawat21/airbnb-clone)** | SWIFT SWIFTUI | 2024 September 3
 
 **[XO GAME](https://chaithawat21.github.io/xo/)** | HTML CSS TAILWIND REACT TPYESCRIPT | 2024 July 31  
 
