@@ -24,8 +24,8 @@ I'll never stop learning to code and design, and I practice every day to keep ge
 
 ## PROJECTS ❤️‍🔥  
 
-**[Weather App](https://github.com/chaithawat21/weather-app)** | SWIFT SWIFTUI | 2024 September 4
-**[Airbnb Clone App](https://github.com/chaithawat21/airbnb-clone)** | SWIFT SWIFTUI | 2024 September 3
+**[Weather App](https://github.com/chaithawat21/weather-app)** | SWIFT SWIFTUI | 2024 September 4  
+**[Airbnb Clone App](https://github.com/chaithawat21/airbnb-clone)** | SWIFT SWIFTUI | 2024 September 3  
 
 **[XO GAME](https://chaithawat21.github.io/xo/)** | HTML CSS TAILWIND REACT TPYESCRIPT | 2024 July 31  
 
