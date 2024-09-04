@@ -1,6 +1,5 @@
 # Hey there! I'm Chai :fire:  
 I'll never stop learning to code and design, and I practice every day to keep getting better!  
-[RESUME](https://www.canva.com/design/DAGPh6g-xEg/WLajWYU01VBTf4FTbvAEGQ/view?utm_content=DAGPh6g-xEg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ---
 
@@ -66,4 +65,3 @@ I'll never stop learning to code and design, and I practice every day to keep ge
 
 ---
 
-**[VFX PORTFOLIO](https://vimeo.com/647403095)**   
