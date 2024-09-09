@@ -32,7 +32,7 @@ I'll never stop learning to code and design, and I practice every day to keep ge
 - [Frontend](https://github.com/chaithawat21/o2o-frontend) | HTML CSS TAILWIND REACT ZUSTAND
 - [Backend](https://github.com/chaithawat21/o2o-backend) | NODEJS EXPRESSJS SOCKET.IO MYSQL  
 
-**[FRONTENDMENTOR](https://www.frontendmentor.io/profile/chaithawat21)![Frontend Mentor Logo](https://www.frontendmentor.io/static/images/logo-mobile.svg)** (Lastest Update)  
+**FRONTENDMENTOR![Frontend Mentor Logo](https://www.frontendmentor.io/static/images/logo-mobile.svg)** (Lastest Update)  
 
 - [audiophile ecommerce website](https://chaithawat21.github.io/frontendmentor-audiophile-ecommerce-website/) | HTML CSS TAILWIND REACT | 2024 September 1
 - [new homepage main](https://chaithawat21.github.io/frontendmentor-news-homepage-main/) | HTML CSS TAILWIND REACT TYPESCRIPT | 2024 August 19 
