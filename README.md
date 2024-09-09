@@ -22,7 +22,7 @@ I'll never stop learning to code and design, and I practice every day to keep ge
 ![Adobe After Effects](https://img.shields.io/badge/adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)  
 
 ## PROJECTS ❤️‍🔥  
-
+**[To Do App](https://github.com/chaithawat21/to-do-app)** | SWIFT SWIFTUI | 2024 September 9
 **[Weather App](https://github.com/chaithawat21/weather-app)** | SWIFT SWIFTUI | 2024 September 4  
 **[Airbnb Clone App](https://github.com/chaithawat21/airbnb-clone)** | SWIFT SWIFTUI | 2024 September 3  
 
