@@ -22,7 +22,7 @@ I'll never stop learning to code and design, and I practice every day to keep ge
 ---
 
 ## PROJECTS ❤️‍🔥 
-**[To Do List App](https://github.com/chaithawat21/to-do-list-app)** | SWIFT SWIFTUI | 2024 September 11   
+**[To Do List App](https://github.com/chaithawat21/to-do-list)** | SWIFT SWIFTUI | 2024 September 11   
 **[Weather App](https://github.com/chaithawat21/weather-app)** | SWIFT SWIFTUI | 2024 September 4  
 **[Airbnb Clone App](https://github.com/chaithawat21/airbnb-clone)** | SWIFT SWIFTUI | 2024 September 3  
 
