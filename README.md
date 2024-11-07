@@ -1,5 +1,3 @@
----
-
 ## PROJECTS ❤️‍🔥 
 **[To Do List App](https://github.com/chaithawat21/to-do-list)** | SWIFT SWIFTUI | 2024 September 11   
 **[Weather App](https://github.com/chaithawat21/weather-app)** | SWIFT SWIFTUI | 2024 September 4  
@@ -40,6 +38,3 @@
 - [Blog preview card](https://chaithawat21.github.io/frontendmentor-blog-preview-card-main/) | HTML CSS | 2024 May 7  
 - [Social links profile](https://chaithawat21.github.io/frontendmentor-social-links-profile-main/) | HTML CSS | 2024 May 6  
 - [Recipe page](https://chaithawat21.github.io/frontendmentor-recipe-page-main/) | HTML CSS | 2024 May 5  
-
----
-
