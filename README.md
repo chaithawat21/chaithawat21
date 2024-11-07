@@ -1,24 +1,3 @@
-# Hey there! I'm Chai :fire:  
-I'll never stop learning to code and design, and I practice every day to keep getting better!  
-
-**SKILLS**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=%23323330)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=%2320232A)
-![Vite](https://img.shields.io/badge/vite-%23006DF4.svg?style=flat-square&logo=vite&logoColor=white)  
-![Swift](https://img.shields.io/badge/swift-%23F05138.svg?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/swiftui-%23F05138.svg?style=flat-square&logo=swift&logoColor=white)  
-
-
-*DESIGN SOFTWARE*  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)  
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)  
-
 ---
 
 ## PROJECTS ❤️‍🔥 
